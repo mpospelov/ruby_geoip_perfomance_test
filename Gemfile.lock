@@ -1,0 +1,31 @@
+GIT
+  remote: git://github.com/envato/geoip2.git
+  revision: b23eff08b8285c76d8b387a346e2ab6fac189667
+  specs:
+    maxmind_geoip2 (0.0.8)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark-ips (2.7.2)
+    byebug (9.0.5)
+    geoip2_compat (0.0.3)
+    hive_geoip2 (0.1.2)
+    maxminddb (0.1.11)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  benchmark-ips
+  byebug
+  geoip2_compat
+  hive_geoip2
+  maxmind_geoip2!
+  maxminddb
+
+RUBY VERSION
+   ruby 2.3.1p112
+
+BUNDLED WITH
+   1.12.5
