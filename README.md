@@ -1,4 +1,4 @@
-This code is targeted to compare performace of geoip for ruby
+This code is targeted to compare performace of geoip gems for ruby
 
 ```
 Warming up --------------------------------------
